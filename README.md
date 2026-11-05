@@ -15,7 +15,6 @@ call it from any website, app, localhost or `file://` page.
 
 **Use it from Google Apps Script / Sheets:** see [`clients/apps-script`](./clients/apps-script).
 
-[![Watch the setup video: Free WhatsApp API on a VPS, send messages from Google Sheets and Apps Script](https://img.youtube.com/vi/vh1EFdjqIwE/maxresdefault.jpg)](https://youtu.be/vh1EFdjqIwE)
 
 ---
 
